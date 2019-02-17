@@ -1,0 +1,41 @@
+body{
+  background-color:#ebfffb;
+  font-family: verdana, sans-serif;
+  margin: 0;
+}
+hr{   border-style: outset;
+      border-color: #919190;
+      border-width: 2px;
+
+  }
+h1{ color: #393e46;
+    padding-bottom: 3px;
+}
+h3{
+  color: #393e46;
+  position: relative;
+  left: 20px;
+}
+
+p{margin-left: 3rem;
+
+}
+.basicInfo {position: relative;
+            margin: 20px 0 0 20px;
+            padding: 0;
+}
+.infoWritten{ display: inline-block;
+
+}
+
+.img01{float: left;
+margin-right: 30px;
+margin-bottom: 30px;}
+
+.workexp{clear: left;}
+
+.edu01{ padding-left: 0;}
+.skillsMain{margin-left: 3rem;}
+.language-table {margin-left: 3rem;}
+
+#button01 {margin-left: 20px;}
