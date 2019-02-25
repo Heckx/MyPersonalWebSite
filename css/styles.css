@@ -10,6 +10,7 @@ hr{   border-style: outset;
   }
 h1{ color: #393e46;
     padding-bottom: 3px;
+    padding-top: 70px;
 }
 h3{
   color: #393e46;
@@ -31,11 +32,12 @@ p{margin-left: 3rem;
 .img01{float: left;
 margin-right: 30px;
 margin-bottom: 30px;}
-
+.heading01 {margin-top: 30px;}
 .workexp{clear: left;}
 
-.edu01{ padding-left: 0;}
-.skillsMain{margin-left: 3rem;}
-.language-table {margin-left: 3rem;}
+.education{ margin-left: 30px;}
+.cert{margin-left: 0;}
+.skillsMain{margin-left: 30px;}
+.language-table {margin-left: 30px;}
 
 #button01 {margin-left: 20px;}
