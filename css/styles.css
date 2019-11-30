@@ -21,6 +21,7 @@ h3{
 p{margin-left: 3rem;
 
 }
+
 .basicInfo {position: relative;
             margin: 20px 0 0 20px;
             padding: 0;
@@ -41,3 +42,12 @@ margin-bottom: 30px;}
 .language-table {margin-left: 30px;}
 
 #button01 {margin-left: 20px;}
+
+.contact-me{
+  text-decoration: none;
+  background-color: #c3d7de;
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
