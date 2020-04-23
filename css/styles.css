@@ -1,0 +1,63 @@
+body{
+  background-color:#ebfffb;
+  font-family: verdana, sans-serif;
+  margin: 0;
+}
+hr{   border-style: outset;
+      border-color: #919190;
+      border-width: 2px;
+
+  }
+h1{ color: #393e46;
+    padding-bottom: 3px;
+    padding-top: 70px;
+}
+h3{
+  color: #393e46;
+  position: relative;
+  left: 20px;
+}
+
+p{margin-left: 3rem;
+  margin-bottom: 10px;
+
+}
+
+.basicInfo {position: relative;
+            margin: 20px 0 0 20px;
+            padding: 0;
+}
+.infoWritten{ display: inline-block;
+
+}
+
+.img01{float: left;
+margin-right: 30px;
+margin-bottom: 30px;}
+.heading01 {margin-top: 30px;}
+.workexp{clear: left;}
+
+.education{ margin-left: 30px;}
+.cert{margin-left: 0;}
+.skillsMain{margin-left: 30px;}
+.language-table {margin-left: 30px;}
+
+.contact-me{
+  float: left;
+  position: static;
+  padding: 7px;
+  text-decoration: none;
+  color: black;
+  background-color: #dfe4e6;
+  border-top-left-radius: 3px;
+  border-bottom-left-radius: 3px;
+  border-top-right-radius: 3px;
+  border-bottom-right-radius: 3px;
+  border-style: solid;
+}
+
+.todays_wine{
+  margin-left: 100px;
+  margin-top: 50px;
+  position: static;
+}
