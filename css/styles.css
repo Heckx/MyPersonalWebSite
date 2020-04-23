@@ -55,9 +55,11 @@ margin-bottom: 30px;}
   border-bottom-right-radius: 3px;
   border-style: solid;
 }
-
+.wine_sheet{
+margin: 20px 20px;
+}
 .todays_wine{
-  margin-left: 100px;
-  margin-top: 50px;
+  margin-left: 20px;
+  margin-top: 10px;
   position: static;
 }
