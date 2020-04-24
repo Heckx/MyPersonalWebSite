@@ -42,9 +42,38 @@ margin-bottom: 30px;}
 .skillsMain{margin-left: 30px;}
 .language-table {margin-left: 30px;}
 
-.contact-me{
-  float: left;
-  position: static;
+.contact-me01{
+  position: relative;
+  top: 100px;
+  right: 20px;
+  padding: 7px;
+  text-decoration: none;
+  color: black;
+  background-color: #dfe4e6;
+  border-top-left-radius: 3px;
+  border-bottom-left-radius: 3px;
+  border-top-right-radius: 3px;
+  border-bottom-right-radius: 3px;
+  border-style: solid;
+}
+.contact-me02{
+  position: relative;
+  top: 80px;
+  right: 20px;
+  padding: 7px;
+  text-decoration: none;
+  color: black;
+  background-color: #dfe4e6;
+  border-top-left-radius: 3px;
+  border-bottom-left-radius: 3px;
+  border-top-right-radius: 3px;
+  border-bottom-right-radius: 3px;
+  border-style: solid;
+}
+.contact-me03{
+  position: relative;
+  top: 60px;
+  right: -330px;
   padding: 7px;
   text-decoration: none;
   color: black;
